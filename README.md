@@ -5,7 +5,7 @@ Tech enthusiast & web developer | Aspiring IT Support Professional
 
 🌐 Portfolio: https://app.netlify.com/teams/lesedimothelo/projects?creator=me&visibility=public  
 
-📫 Contact: boitumelo.mothelo52@email.com  
+📫 Contact: boitumelo.mothelo52@gmail.com  
 
 👾**Skills:**  
 - HTML, CSS, JavaScript  
