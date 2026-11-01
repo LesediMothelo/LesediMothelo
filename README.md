@@ -1,7 +1,7 @@
 Hi, I'm Lesedi :)
-Tech enthusiast & web developer | Aspiring IT Support Professional  
+Junior Frontend Developer | Web Application Development
 
-💻 Current Focus: Web development, Python projects, interactive webapp, Google IT Support Certification
+💻 Current Focus: Web development, Python projects, interactive web applications, Google IT Support Certification
 
 🌐 Portfolio: https://app.netlify.com/teams/lesedimothelo/projects?creator=me&visibility=public  
 
