@@ -3,7 +3,7 @@ Junior Frontend Developer | Web Application Development
 
 💻 Current Focus: Web development, Python projects, interactive web applications, Google IT Support Certification
 
-🌐 Portfolio: https://app.netlify.com/teams/lesedimothelo/projects?creator=me&visibility=public  
+🌐 Portfolio: https://lesedi-mothelo-junior-frontend-dev.netlify.app/
 
 📫 Contact: boitumelo.mothelo52@gmail.com  
 
